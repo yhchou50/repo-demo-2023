@@ -1,0 +1,7 @@
+Create a new repository for this project called VBA-challenge. Do not add this assignment to an existing repository.
+
+Inside the new repository that you just created, add any VBA files that you use for this assignment. These will be the main scripts to run for each analysis.
+
+4 modules of VBA scripts were created. 
+1) run module1, 2 and 3 on first ws to get data of ticker, yearly change, percent change and total stock volume
+2) run module 4, module 4 call the function to loop module 1, 2 and 3 on all worksheets
